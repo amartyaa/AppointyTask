@@ -30,7 +30,7 @@ func main() {
 	//Init Router
 	router := httprouter.New()
 
-	//http routing
+	//Routing for different HTTP methods
 	router.GET("/article", getArticles)
 	router.GET("/article/:id", getArticle)
 	router.GET("/articles/search?q=title", searchArticle)
