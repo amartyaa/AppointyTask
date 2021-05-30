@@ -1,8 +1,11 @@
-# InShorts API
+# InShorts Backend API
 
 News Article Publishing API made in GoLang.
  
 
+
+### _Recruitment task for Appointy_
+[Task can be found at this link](https://docs.google.com/document/d/1puAfEgm47CjUUE6ivtyDnYbBFRk6NH9hWcbtMmJowPw/edit#)
 
 ## Installation
 
@@ -42,6 +45,3 @@ With no knowledge of GoLang two days ago, this code was made in less than 48 hou
 Many more websites and articles came to help, can't mention all of them.
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-### _Recruitment task for Appointy_
-[Task can be found at this link](https://docs.google.com/document/d/1puAfEgm47CjUUE6ivtyDnYbBFRk6NH9hWcbtMmJowPw/edit#)
